@@ -1,2 +1,2 @@
 # Web-Design
-Landing page for phone website showing phone spicifications.
+Landing page for phone website showing phone specifications.
